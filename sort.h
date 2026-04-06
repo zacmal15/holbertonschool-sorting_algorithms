@@ -4,7 +4,7 @@
 #include <stddef.h>
 
 /**
- * struct_listint_s - doubly linked list node
+ * struct listint_s - doubly linked list node
  *
  * @n: integer stored in node
  * @prev: pointer to previous element
