@@ -1,1 +1,1 @@
-# holbertonschool-sorting_algorithms
+this folder contains work regarding sorting algorithms
